@@ -57,6 +57,19 @@
 		.card svg{
 			color: #07286b;
 		}
+		
+				.card-highlighted {
+			color: white;
+			background-color: #07286b;
+
+			margin-bottom: 20px;
+			padding: 20px;
+			border:0px;
+			border-radius:0px;
+		}
+		.card-highighlighted btn{
+			background-color: #ffc107 !important;
+		}
 		.offer-title{
 		font-weight:500 !important;
 		}
